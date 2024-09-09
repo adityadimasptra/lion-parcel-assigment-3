@@ -42,3 +42,6 @@ To run the index.js file, execute the following command in your terminal:
 ```bash
 node index.js
 ```
+The result should be like this:
+
+![alt text](./image.png)
