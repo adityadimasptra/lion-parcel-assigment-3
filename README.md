@@ -30,7 +30,13 @@ Ensure that the version is at least v14.0.0 or later.
 
 ## Installation
 1. Clone repository
+    ```bash
+    https://github.com/adityadimasptra/lion-parcel-assignment-3.git
+    ```
 2. Navigate to the project
+    ```bash
+    cd lion-parcel-assignment-3
+    ```
 ## Running the Script
 To run the index.js file, execute the following command in your terminal:
 ```bash
